@@ -22,7 +22,7 @@ Close Blender.
 Re-open Blender.
 
 ## 6. Install Transmogrifier
-Install Transmogrifier exactly how you first did according to the **[Installation 📥](https://sapwoodstudio.github.io/Transmogrifier/installation/#2-download-the-transmogrifier-add-on)** section.
+Install Transmogrifier exactly how you first did according to the **[Installation 📥](installation.md#2-download-the-transmogrifier-add-on)** section.
 
 
 !!! success "Success!  Transmogrifier is now updated."

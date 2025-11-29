@@ -126,7 +126,7 @@ Click `+ Add Texture Edit` to add a texture edit profile.  Click `✖` to remove
 Create custom `Edit Textures` presets for quickly switching between different image editing scenarios. (1)
 { .annotate }
 
-1. `Edit Textures` presets are stored as `JSON` files in your [Blender preferences directory](https://sapwoodstudio.github.io/Transmogrifier/faq/#where-is-transmogrifier-installed-on-my-computer). 
+1. `Edit Textures` presets are stored as `JSON` files in your [Blender preferences directory](faq.md#where-is-transmogrifier-installed-on-my-computer). 
 
 === "`+` Add Preset"
     Click the plus button `+` to create a preset from the current Edit Textures settings and profiles, giving it a custom name.  Click `OK` to save it.
@@ -254,4 +254,4 @@ Use regular expressions (aka [`regex`](https://en.wikipedia.org/wiki/Regular_exp
 !!! question "Missing Something?"
     Do you think we're missing a feature?  Submit a request on Github!
 
-    [Request Feature](https://github.com/SapwoodStudio/Transmogrifier/issues){ .md-button .md-button--primary }
+    [Request Feature](https://github.com/sawyerrensel/Transmogrifier/issues){ .md-button .md-button--primary }

@@ -1,6 +1,6 @@
 site_name: Transmogrifier
-site_url: https://sapwoodstudio.github.io/transmogrifier
-repo_url: https://github.com/sapwoodstudio/transmogrifier
+site_url: https://sawyerrensel.github.io/transmogrifier
+repo_url: https://github.com/sawyerrensel/transmogrifier
 
 nav:
   - Home: 'index.md'
@@ -86,7 +86,8 @@ theme:
 
 plugins:
   - search
-  - glightbox
+  # - glightbox
+  - graph-view
 
 markdown_extensions:
   - toc:
@@ -106,20 +107,20 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/mastodon
-      link: https://mastodon.social/@sapwoodstudio
+      link: https://mastodon.social/@sawyerrensel
 
     - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/sapwoodstudio
+      link: https://twitter.com/sawyerrensel
 
     - icon: fontawesome/brands/github
-      link: https://github.com/SapwoodStudio
+      link: https://github.com/sawyerrensel
 
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright &copy; 2024 Sapwood Studio
+copyright: Copyright &copy; 2025 Sawyer Rensel
 
 
 docs_dir: src
 edit_uri: edit/main/src/
-site_dir: docs
+site_dir: site

@@ -4,7 +4,7 @@
 - New UI
     - Thanks to [sniss3n](https://github.com/sniss3n) and [drkdragonlord](https://github.com/drkdragonlord) for feedback on new UI
 - Edit Textures Presets
-- Custom Scripts (inspired by [#7](https://github.com/SapwoodStudio/Transmogrifier/issues/7))
+- Custom Scripts (inspired by [#7](https://github.com/sawyerrensel/Transmogrifier/issues/7))
 - Conversion Summary CSV
 - Load preset from file
     - Workflows
@@ -27,7 +27,7 @@
 - Fixed Blend files being overwritten when marking assets.  Asset Blend files now have an "_Assets" suffix
 - Auto-Optimize File Size now works for every export format/instance, not just the first one
 - Exports' presets and extensions are no longer linked
-- Fixed Workflow's `+` Add Preset, which would throw an error if a `transmogrifier` operator preset directory did not already exist. [#13](https://github.com/SapwoodStudio/Transmogrifier/issues/13)
+- Fixed Workflow's `+` Add Preset, which would throw an error if a `transmogrifier` operator preset directory did not already exist. [#13](https://github.com/sawyerrensel/Transmogrifier/issues/13)
 - Relative paths now work as expected when Blend file is saved
 - Fixed a number of bugs resulting from new features
 

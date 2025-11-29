@@ -45,7 +45,7 @@ Transmogrifier uses a simple algorithm with powerful features.
 3. 📋 Reports a summary of the batch conversion in a CSV file.
 
 !!! tip
-    Many additional conversion utilities are also available within this general workflow.  Check out all the [Features](https://sapwoodstudio.github.io/Transmogrifier/features_overview/)!
+    Many additional conversion utilities are also available within this general workflow.  Check out all the [Features](features_overview.md)!
 
 
 The diagram below demonstrates the variety of ways in which Transmogrifier can convert models with respect to available textures and the chosen import and export formats. 
@@ -56,7 +56,7 @@ The diagram below demonstrates the variety of ways in which Transmogrifier can c
 
 ***
 ## License
-Transmogrifier is open-source/licensed-free software under the [GNU GPL v3.0](https://github.com/SapwoodStudio/Transmogrifier/blob/main/LICENSE).
+Transmogrifier is open-source/licensed-free software under the [GNU GPL v3.0](https://github.com/sawyerrensel/Transmogrifier/blob/main/LICENSE).
 
 ??? Question "What is Free Software?"
     !!! quote ""

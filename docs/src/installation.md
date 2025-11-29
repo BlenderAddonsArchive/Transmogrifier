@@ -18,7 +18,7 @@ Blender is a cross-platform, licensed-free 3D content creation software develope
 ## 2. Download the Transmogrifier Add-on 
 The Transmogrifier add-on extends Blender with a 3D batch conversion toolset.
 
-[Download Transmogrifier](https://github.com/SapwoodStudio/Transmogrifier/releases/latest/download/Transmogrifier.zip){ .md-button .md-button--primary }
+[Download Transmogrifier](https://github.com/sawyerrensel/Transmogrifier/releases/latest/download/Transmogrifier.zip){ .md-button .md-button--primary }
 
 !!! tip
     A good, default place to save is your `Downloads` directory.  You do not need to unzip the file.  In the next step, you'll install it as a zipped file.

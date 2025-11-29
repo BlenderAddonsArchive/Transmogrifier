@@ -61,11 +61,11 @@ class TRANSMOGRIFIER_OT_help(Operator):
     """Open online documentation in web browser"""
     bl_idname = "transmogrifier.help"
     bl_label = "Help"
-    bl_description = "Open online documentation in a web browser\n(https://sapwoodstudio.github.io/transmogrifier)"
+    bl_description = "Open online documentation in a web browser\n(https://sawyerrensel.github.io/transmogrifier)"
     
     link: StringProperty(
         name="Help",
-        default="https://sapwoodstudio.github.io/transmogrifier"
+        default="https://sawyerrensel.github.io/transmogrifier"
     )    
 
     def execute(self, context):   

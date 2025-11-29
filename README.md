@@ -20,25 +20,25 @@ Transmogrifier supports batch conversions between many import and export formats
 
 
 ***
-## [Features](https://sapwoodstudio.github.io/Transmogrifier/features_overview/)
+## [Features](https://sawyerrensel.github.io/Transmogrifier/features_overview/)
 
 ![Transmogrifier_UI_Sneak_Peak.gif](docs/assets/images/Transmogrifier_UI_Sneak_Peak.gif)
 
-- [User Interface](https://sapwoodstudio.github.io/Transmogrifier/user_interface/)
-- [Batch Convert](https://sapwoodstudio.github.io/Transmogrifier/batch_convert/)
-- [Apply Textures](https://sapwoodstudio.github.io/Transmogrifier/apply_textures/)
-- [Auto-Optimize File Size](https://sapwoodstudio.github.io/Transmogrifier/optimize_file_size/)
-- [Mark Assets](https://sapwoodstudio.github.io/Transmogrifier/mark_assets/)
-- [Export UV Maps](https://sapwoodstudio.github.io/Transmogrifier/export_uv_maps/)
-- [Set Scene Properties](https://sapwoodstudio.github.io/Transmogrifier/set_scene_properties/)
-- [Transform Objects](https://sapwoodstudio.github.io/Transmogrifier/transform_objects/)
-- [Run Custom Scripts](https://sapwoodstudio.github.io/Transmogrifier/run_custom_scripts/)
-- [Log Conversions](https://sapwoodstudio.github.io/Transmogrifier/log_conversions/)
+- [User Interface](https://sawyerrensel.github.io/Transmogrifier/user_interface/)
+- [Batch Convert](https://sawyerrensel.github.io/Transmogrifier/batch_convert/)
+- [Apply Textures](https://sawyerrensel.github.io/Transmogrifier/apply_textures/)
+- [Auto-Optimize File Size](https://sawyerrensel.github.io/Transmogrifier/optimize_file_size/)
+- [Mark Assets](https://sawyerrensel.github.io/Transmogrifier/mark_assets/)
+- [Export UV Maps](https://sawyerrensel.github.io/Transmogrifier/export_uv_maps/)
+- [Set Scene Properties](https://sawyerrensel.github.io/Transmogrifier/set_scene_properties/)
+- [Transform Objects](https://sawyerrensel.github.io/Transmogrifier/transform_objects/)
+- [Run Custom Scripts](https://sawyerrensel.github.io/Transmogrifier/run_custom_scripts/)
+- [Log Conversions](https://sawyerrensel.github.io/Transmogrifier/log_conversions/)
 
 
 ***
 ## Installation
-Check out the [📚 Documentation](https://sapwoodstudio.github.io/Transmogrifier/installation/) for instructions.
+Check out the [📚 Documentation](https://sawyerrensel.github.io/Transmogrifier/installation/) for instructions.
 
 ![Installation_Page.gif](docs/assets/images/Installation_Page.gif)
 
@@ -57,7 +57,7 @@ Transmogrifier uses a simple algorithm with powerful features.
     6. ⏬ auto-optimizes the export file's size
 3. 📋 Reports a summary of the batch conversion in a CSV file.
 
-Many additional conversion utilities are also available within this general workflow.  Check out all the [Features](https://sapwoodstudio.github.io/Transmogrifier/features_overview/)!
+Many additional conversion utilities are also available within this general workflow.  Check out all the [Features](https://sawyerrensel.github.io/Transmogrifier/features_overview/)!
 
 The diagram below demonstrates the variety of ways in which Transmogrifier can convert models with respect to available textures and the chosen import and export formats. 
 
@@ -69,18 +69,18 @@ The diagram below demonstrates the variety of ways in which Transmogrifier can c
 ## Contribute
 We welcome any help maintaining Transmogrifier.  
 
-- [Issue Tracker](https://github.com/SapwoodStudio/Transmogrifier/issues)
-- [Source Code](https://github.com/SapwoodStudio/Transmogrifier/)
+- [Issue Tracker](https://github.com/sawyerrensel/Transmogrifier/issues)
+- [Source Code](https://github.com/sawyerrensel/Transmogrifier/)
 
 
 ***
 ## Support
-If Transmogrifier isn't working the way you expected, please let us know by submitting an issue on [Github](https://github.com/SapwoodStudio/Transmogrifier/issues) or reaching out on [BlenderArtists](https://blenderartists.org/t/transmogrifier-free-3d-batch-converter-addon/1475060).
+If Transmogrifier isn't working the way you expected, please let us know by submitting an issue on [Github](https://github.com/sawyerrensel/Transmogrifier/issues) or reaching out on [BlenderArtists](https://blenderartists.org/t/transmogrifier-free-3d-batch-converter-addon/1475060).
 
 
 ***
 ## License
-Transmogrifier is open-source/licensed-free software under the [GNU GPL v3.0](https://github.com/SapwoodStudio/Transmogrifier/blob/main/LICENSE).
+Transmogrifier is open-source/licensed-free software under the [GNU GPL v3.0](https://github.com/sawyerrensel/Transmogrifier/blob/main/LICENSE).
 
 *What is Free Software?*
 

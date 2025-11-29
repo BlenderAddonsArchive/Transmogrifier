@@ -7,7 +7,7 @@ Learn Transmogrifier with a demo and quickstart your first steps using the addon
 ## 1. Download the Demo Files
 Download the demo files, then unzip the folder.  Inside you will find 3D models as FBX files along with their associated textures.
 
-[Download PolyHaven Demo Files](https://github.com/SapwoodStudio/Transmogrifier/releases/latest/download/PolyHaven_Demo_Files.zip){ .md-button .md-button--primary }
+[Download PolyHaven Demo Files](https://github.com/sawyerrensel/Transmogrifier/releases/latest/download/PolyHaven_Demo_Files.zip){ .md-button .md-button--primary }
 
 !!! info "PolyHaven"
     [PolyHaven](https://polyhaven.com/) is a creative-commons (CC0) library of models, textures and HDRI's.  We've curated 5 models with textures from their library for this demo.

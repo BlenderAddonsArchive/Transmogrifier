@@ -79,7 +79,7 @@ def draw_settings_general(self, context):
     row.prop(settings, 'logging_save_summary', text='', icon="SPREADSHEET")
     row.operator('transmogrifier.advanced_ui', text="", icon="OPTIONS", depress=True if settings.advanced_ui else False)
     help = row.operator('transmogrifier.help', text="", icon="QUESTION")
-    help.link = "https://sapwoodstudio.github.io/Transmogrifier"
+    help.link = "https://sawyerrensel.github.io/Transmogrifier"
 
     # Batch Convert button
     row = self.layout.row(align=True)

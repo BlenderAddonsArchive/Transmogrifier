@@ -9,7 +9,7 @@ type = "add-on"
 
 permissions = ["files"]
 
-website = "https://sapwoodstudio.github.io/Transmogrifier/"
+website = "https://sawyerrensel.github.io/Transmogrifier/"
 
 tags = ["Import-Export", "Pipeline"]
 

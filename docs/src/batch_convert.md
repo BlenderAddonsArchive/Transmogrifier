@@ -17,7 +17,7 @@ Calculate the batch conversion and display an info message of the `Forecast`.
 Create custom Transmogrifier presets (aka `Workflows`) for quickly switching between different conversion scenarios. (1)
 { .annotate }
 
-1. Workflows are stored as `JSON` files in your [Blender preferences directory](https://sapwoodstudio.github.io/Transmogrifier/faq/#where-is-transmogrifier-installed-on-my-computer). 
+1. Workflows are stored as `JSON` files in your [Blender preferences directory](faq.md#where-is-transmogrifier-installed-on-my-computer). 
 
 === "`+` Add Preset"
     Click the plus button `+` to create a `Workflow` from **all** of the current Transmogrifier settings, giving it a custom name.  Click `OK` to save it.
@@ -112,4 +112,4 @@ Click `+ Add Export` to add an export file format for Transmogrifier to output f
 !!! question "Missing Something?"
     Do you think we're missing a feature?  Submit a request on Github!
 
-    [Request Feature](https://github.com/SapwoodStudio/Transmogrifier/issues){ .md-button .md-button--primary }
+    [Request Feature](https://github.com/sawyerrensel/Transmogrifier/issues){ .md-button .md-button--primary }

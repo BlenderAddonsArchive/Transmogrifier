@@ -75,11 +75,11 @@ Choose among texture- and mesh-optimization methods to use.
 
 
 !!! question "What if Transmogrifier Runs out of options?"
-    If all methods are exhausted and the file size is still above the target maximum, Transmogrifier will report this in the [`Conversion Log`](https://sapwoodstudio.github.io/Transmogrifier/log_conversions/#conversion-log) and move on to converting the next file.
+    If all methods are exhausted and the file size is still above the target maximum, Transmogrifier will report this in the [`Conversion Log`](log_conversions.md#conversion-log) and move on to converting the next file.
 
 
 ***
 !!! question "Missing Something?"
     Do you think we're missing a feature?  Submit a request on Github!
 
-    [Request Feature](https://github.com/SapwoodStudio/Transmogrifier/issues){ .md-button .md-button--primary }
+    [Request Feature](https://github.com/sawyerrensel/Transmogrifier/issues){ .md-button .md-button--primary }

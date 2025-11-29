@@ -9,7 +9,7 @@
 ??? question "What is Transmogrifier's license?"
     #### "What is Transmogrifier's license?"
 
-    Transmogrifier is open-source/licensed-free software under the [GNU GPL v3.0](https://github.com/SapwoodStudio/Transmogrifier/blob/main/LICENSE).
+    Transmogrifier is open-source/licensed-free software under the [GNU GPL v3.0](https://github.com/sawyerrensel/Transmogrifier/blob/main/LICENSE).
 
     ??? Question "What is Free Software?"
         !!! quote ""
@@ -61,7 +61,7 @@
             C:\Users\{YOUR_USER}\AppData\Roaming\Blender Foundation\X.XX\scripts\addons\Transmogrifier\
             ```
 
-    !!! info "Transmogrifier [`Workflow Presets`](https://sapwoodstudio.github.io/Transmogrifier/batch_convert/#workflow-presets) Location"
+    !!! info "Transmogrifier [`Workflow Presets`](batch_convert.md#workflow-presets) Location"
         === "GNU/Linux" 
             If you installed the add-on as a user:
 
@@ -98,7 +98,7 @@
             C:\Users\{YOUR_USER}\AppData\Roaming\Blender Foundation\X.XX\scripts\presets\operator\transmogrifier
             ```
 
-    !!! info "Transmogrifier [`Edit Textures Presets`](https://sapwoodstudio.github.io/Transmogrifier/apply_textures/#edit-textures-presets) Location"
+    !!! info "Transmogrifier [`Edit Textures Presets`](apply_textures.md#edit-textures-presets) Location"
         === "GNU/Linux" 
             If you installed the add-on as a user:
 
@@ -135,8 +135,8 @@
             C:\Users\{YOUR_USER}\AppData\Roaming\Blender Foundation\X.XX\scripts\presets\operator\transmogrifier\edit_textures
             ```
 
-??? question "My [`Workflow Presets`](https://sapwoodstudio.github.io/Transmogrifier/features/#user-presets) don't work anymore."
-    #### "My [`Workflow Presets`](https://sapwoodstudio.github.io/Transmogrifier/features/#user-presets) don't work anymore."
+??? question "My [`Workflow Presets`](batch_convert.md#workflow-presets) don't work anymore."
+    #### "My [`Workflow Presets`](batch_convert.md#workflow-presets) don't work anymore."
 
     Transmogrifier's codebase (API) was overhauled for version 2.0.0, so any `Workflow Presets` you made prior to this release won't work anymore.  Your import and export presets should still work, however.
 
@@ -144,9 +144,9 @@
 ??? question "Something's not working.  Where do I submit a bug report?"
     #### "Something's not working.  Where do I submit a bug report?"
 
-    If Transmogrifier isn't working the way you expected, please let us know by submitting an issue on [Github](https://github.com/SapwoodStudio/Transmogrifier/issues) or reaching out on [BlenderArtists](https://blenderartists.org/t/transmogrifier-free-3d-batch-converter-addon/1475060).
+    If Transmogrifier isn't working the way you expected, please let us know by submitting an issue on [Github](https://github.com/sawyerrensel/Transmogrifier/issues) or reaching out on [BlenderArtists](https://blenderartists.org/t/transmogrifier-free-3d-batch-converter-addon/1475060).
 
-    [Report Bug](https://github.com/SapwoodStudio/Transmogrifier/issues){ .md-button .md-button--primary }
+    [Report Bug](https://github.com/sawyerrensel/Transmogrifier/issues){ .md-button .md-button--primary }
 
 
 ??? question "How do I create an import or export preset?"
@@ -177,13 +177,13 @@
 ??? question "How do I update Transmogrifier?"
     #### "How do I update Transmogrifier?"
 
-    Check out the [Update 🔁](https://sapwoodstudio.github.io/Transmogrifier/update/) page.
+    Check out the [Update 🔁](update.md) page.
 
 
 ??? question "How do I uninstall Transmogrifier?"
     #### "How do I uninstall Transmogrifier?"
 
-    Check out the [Uninstall 🔌](https://sapwoodstudio.github.io/Transmogrifier/uninstall/) page.
+    Check out the [Uninstall 🔌](uninstall.md) page.
 
 
 ??? question "How do I create an Asset Library?"

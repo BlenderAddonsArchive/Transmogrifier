@@ -122,5 +122,4 @@ copyright: Copyright &copy; 2025 Sawyer Rensel
 
 
 docs_dir: src
-edit_uri: edit/main/src/
-site_dir: docs/site
+edit_uri: edit/main/docs/src/

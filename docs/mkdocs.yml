@@ -86,7 +86,7 @@ theme:
 
 plugins:
   - search
-  # - glightbox
+  - glightbox
   - graph-view
 
 markdown_extensions:

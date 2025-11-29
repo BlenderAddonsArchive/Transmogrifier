@@ -1,6 +1,6 @@
 site_name: Transmogrifier
-site_url: https://sawyerrensel.github.io/transmogrifier
-repo_url: https://github.com/sawyerrensel/transmogrifier
+site_url: https://sawyerrensel.github.io/Transmogrifier
+repo_url: https://github.com/sawyerrensel/Transmogrifier
 
 nav:
   - Home: 'index.md'
@@ -121,5 +121,6 @@ extra_css:
 copyright: Copyright &copy; 2025 Sawyer Rensel
 
 
-docs_dir: src
-edit_uri: edit/main/docs/src/
+docs_dir: docs
+edit_uri: edit/main/docs
+site_dir: site
